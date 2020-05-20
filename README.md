@@ -1,0 +1,1 @@
+This is a very basic Google Home page. The buttons and links do not redirect to anything.
